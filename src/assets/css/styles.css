@@ -1,0 +1,12 @@
+:root {
+    --black-color: #000000;
+    --red-color: #EC1D24;
+  }
+
+  body {
+    font-family: "Roboto Condensed", sans-serif;
+  }
+
+  * {
+    box-sizing: border-box;
+  }
